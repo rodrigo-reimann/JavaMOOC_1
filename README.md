@@ -20,7 +20,3 @@ Feel free to submit pull requests if you find any improvements or corrections to
 
 This project is open-source, but please respect academic integrity and the University's guidelines on plagiarism.
 
----
-
-Made with 💙 by Rodrigo Reimann Baston
-
